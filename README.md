@@ -1,137 +1,103 @@
-<p align="center">
-  <p align="center">
-    <a href="https://bigcapital.app" target="_blank">
-      <img src="https://raw.githubusercontent.com/abouolia/blog/main/public/bigcapital.svg" alt="Bigcapital" width="280" height="75">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  </p><p align="center" dir="auto">
+    <a href="https://bigcapital.app" rel="nofollow">
+      <img src="https://raw.githubusercontent.com/abouolia/blog/main/public/bigcapital.svg" alt="大资本" width="280" height="75" style="max-width: 100%;">
     </a>
   </p>
-  <p align="center">
-    Simple, smart online accounting software for small and medium businesses.
-  </p>
-
-  <p align="center">
+  <p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    适用于中小型企业的简单、智能的在线会计软件。
+  </font></font></p>
+  <p align="center" dir="auto">
     <a href="https://github.com/bigcapitalhq/bigcapital/commits/develop">
-      <img src="https://img.shields.io/github/commit-activity/m/bigcapitalhq/bigcapital/develop" />
+      <img src="https://camo.githubusercontent.com/c1736f7a334673d987e7f186a812a0ced1655d9928db14f5a035b954bfb51219/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f6d2f6269676361706974616c68712f6269676361706974616c2f646576656c6f70" data-canonical-src="https://img.shields.io/github/commit-activity/m/bigcapitalhq/bigcapital/develop" style="max-width: 100%;">
     </a>
-    <a href="https://discord.com/invite/c8nPBJafeb">
-      <img src="https://img.shields.io/discord/1066514716752625725?label=Discord" alt="" />
+    <a href="https://discord.com/invite/c8nPBJafeb" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/0370f5f9b9b92992bc0e862bf0e076f04785ce48fcc88a01c4df8d7d4318a207/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f313036363531343731363735323632353732353f6c6162656c3d446973636f7264" alt="" data-canonical-src="https://img.shields.io/discord/1066514716752625725?label=Discord" style="max-width: 100%;">
     </a>
     <a href="https://github.com/bigcapitalhq/bigcapital/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/bigcapitalhq/bigcapital" alt="" />
+      <img src="https://camo.githubusercontent.com/3968a37d72d433869b9d3648222e91a9d5412504e87f083c41d3cbec77fd1530/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6e7472696275746f72732f6269676361706974616c68712f6269676361706974616c" alt="" data-canonical-src="https://img.shields.io/github/contributors/bigcapitalhq/bigcapital" style="max-width: 100%;">
     </a>
     <a href="https://github.com/bigcapitalhq/bigcapital/blob/develop/LICENSE">
-      <img src="https://img.shields.io/github/license/bigcapitalhq/bigcapital" alt="" />
+      <img src="https://camo.githubusercontent.com/ed980ec340b80c271454ac6a37675eee752136ee19f277c9c72e0e750793b116/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6269676361706974616c68712f6269676361706974616c" alt="" data-canonical-src="https://img.shields.io/github/license/bigcapitalhq/bigcapital" style="max-width: 100%;">
     </a>
-    <a href="https://twitter.com/bigcapitalhq"> 
-      <img src="https://img.shields.io/twitter/follow/bigcapitalhq?style=social" alt="twitter" />
+    <a href="https://twitter.com/bigcapitalhq" rel="nofollow"> 
+      <img src="https://camo.githubusercontent.com/858bdd55b8ee5555285630ccdd71ce4b4edf1cc2cf6c84ad68f7dc524b3dc10e/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6269676361706974616c68713f7374796c653d736f6369616c" alt="推特" data-canonical-src="https://img.shields.io/twitter/follow/bigcapitalhq?style=social" style="max-width: 100%;">
     </a>
   </p>
-
-  <p align="center">
-    <a href="https://my.bigcapital.app">Bigcapital Cloud</a>
+  <p align="center" dir="auto">
+    <a href="https://my.bigcapital.app" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大资本云</font></font></a>
   </p>
+<p dir="auto"></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bigcapital 是什么？</font></font></h1><a id="user-content-whats-bigcapital" class="anchor" aria-label="永久链接：什么是 Bigcapital？" href="#whats-bigcapital"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bigcapital 是一款智能的开源会计和库存软件，Bigcapital 将所有业务财务放在正确的位置并自动化会计流程，为企业提供强大而智能的财务报表和报告，以帮助做出决策。</font></font></p>
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/abouolia/blog/main/public/screenshot-2.png"><img src="https://raw.githubusercontent.com/abouolia/blog/main/public/screenshot-2.png" width="270" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/abouolia/blog/main/public/screenshot-1.png"><img src="https://raw.githubusercontent.com/abouolia/blog/main/public/screenshot-1.png" width="270" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/abouolia/blog/main/public/screenshot-3.png"><img src="https://raw.githubusercontent.com/abouolia/blog/main/public/screenshot-3.png" width="270" style="max-width: 100%;"></a>
 </p>
-
-# What's Bigcapital?
-
-Bigcapital is a smart and open-source accounting and inventory software, Bigcapital keeps all business finances in right place and automates accounting processes to give the business powerful and intelligent financial statements and reports to help in making decisions.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abouolia/blog/main/public/screenshot-2.png" width="270">
-  <img src="https://raw.githubusercontent.com/abouolia/blog/main/public/screenshot-1.png" width="270">
-  <img src="https://raw.githubusercontent.com/abouolia/blog/main/public/screenshot-3.png" width="270">
-</p>
-
-# Getting Started
-
-We've got serveral options on dev and prod depending on your need to get started quickly with Bigcapital.
-
-## Self-hosted 
-
-Bigcapital is available open-source under AGPL license. You can host it on your own servers using Docker.
-
-### Docker
-
-To get started with self-hosted with Docker and Docker Compose, take a look at the [Docker guide](https://docs.bigcapital.app/deployment/docker).
-
-## Development
-
-### Local Setup
-
-To get started locally, we have a [guide to help you](https://github.com/bigcapitalhq/bigcapital/blob/develop/CONTRIBUTING.md).
-
-### Gitpod
-
-- Click the Gitpod button below to open this project in development mode.
-- This will open and configure the workspace in your browser with all the necessary dependencies.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/new/#https://github.com/bigcapitalhq/bigcapital)
-
-## Headless Accounting
-
-You can integrate Bigcapital API with your system to organize your transactions in double-entry system to get the best financial reports.
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/bigcapital/workspace/bigcapital-api)
-
-# Resources
-
-- [Documentation](https://docs.bigcapital.app/) - Learn how to use.
-- [Contribution](https://github.com/bigcapitalhq/bigcapital/blob/develop/CONTRIBUTING.md) - Welcome to any contributions.
-- [Discord](https://discord.com/invite/c8nPBJafeb) - Ask for help.
-- [Bug Tracker](https://github.com/bigcapitalhq/bigcapital/issues) - Notify us new bugs.
-
-# Changelog
-
-Please see [Releases](https://github.com/bigcapitalhq/bigcapital/releases) for more information what has changed recently.
-
-# Contact us
-
-Meet our sales team for any commercial inquiries.
-
-<a target="_blank" href="https://cal.com/ahmed-bouhuolia-ekk3ph/30min"><img src="https://cal.com/book-with-cal-dark.svg" alt="Book us with Cal.com"></a>
-
-# Recognition
-
-<a href="https://news.ycombinator.com/item?id=36118990">
-  <img
-    style="width: 250px; height: 54px;" width="250" height="54"
-    alt="Featured on Hacker News"
-    src="https://hackernews-badge.vercel.app/api?id=36118990"
-  />
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h1><a id="user-content-getting-started" class="anchor" aria-label="永久链接：入门" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据您快速开始使用 Bigcapital 的需求，我们在开发和生产方面提供了多种选项。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></h2><a id="user-content-self-hosted" class="anchor" aria-label="永久链接：自托管" href="#self-hosted"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bigcapital 是 AGPL 许可下的开源软件。您可以使用 Docker 将其托管在您自己的服务器上。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker</font></font></h3><a id="user-content-docker" class="anchor" aria-label="永久链接：Docker" href="#docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要开始使用 Docker 和 Docker Compose 进行自托管，请查看</font></font><a href="https://docs.bigcapital.app/deployment/docker" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发展</font></font></h2><a id="user-content-development" class="anchor" aria-label="固定链接：开发" href="#development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地设置</font></font></h3><a id="user-content-local-setup" class="anchor" aria-label="永久链接：本地设置" href="#local-setup"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了让您在本地开始操作，我们有一份</font></font><a href="https://github.com/bigcapitalhq/bigcapital/blob/develop/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指南可以为您提供帮助</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">吉特波德</font></font></h3><a id="user-content-gitpod" class="anchor" aria-label="永久链接：Gitpod" href="#gitpod"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点击下面的 Gitpod 按钮以开发模式打开此项目。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这将在您的浏览器中打开并配置工作区以及所有必要的依赖项。</font></font></li>
+</ul>
+<p dir="auto"><a href="https://gitpod.io/new/#https://github.com/bigcapitalhq/bigcapital" rel="nofollow"><img src="https://camo.githubusercontent.com/95fbab4ac41e62a9f66e6d1d78f8249c418b33f8c7739c4f9c593f953f5362de/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667" alt="在 Gitpod 中打开" data-canonical-src="https://gitpod.io/button/open-in-gitpod.svg" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无头会计</font></font></h2><a id="user-content-headless-accounting" class="anchor" aria-label="永久链接：无头会计" href="#headless-accounting"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以将 Bigcapital API 与您的系统集成，以在复式记账系统中组织您的交易，以获得最佳财务报告。</font></font></p>
+<p dir="auto"><a href="https://www.postman.com/bigcapital/workspace/bigcapital-api" rel="nofollow"><img src="https://camo.githubusercontent.com/af5915f48d85979b2b30d477f607886068eff975fa1bd6c93c7431b731648f77/68747470733a2f2f72756e2e7073746d6e2e696f2f627574746f6e2e737667" alt="在 Postman 中运行" data-canonical-src="https://run.pstmn.io/button.svg" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资源</font></font></h1><a id="user-content-resources" class="anchor" aria-label="固定链接：资源" href="#resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://docs.bigcapital.app/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——了解如何使用。</font></font></li>
+<li><a href="https://github.com/bigcapitalhq/bigcapital/blob/develop/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——欢迎任何贡献。</font></font></li>
+<li><a href="https://discord.com/invite/c8nPBJafeb" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">寻求帮助。</font></font></li>
+<li><a href="https://github.com/bigcapitalhq/bigcapital/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误跟踪器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——通知我们新的错误。</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更新日志</font></font></h1><a id="user-content-changelog" class="anchor" aria-label="永久链接：变更日志" href="#changelog"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://github.com/bigcapitalhq/bigcapital/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布内容</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解更多有关最近发生的变化的信息。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联系我们</font></font></h1><a id="user-content-contact-us" class="anchor" aria-label="永久链接：联系我们" href="#contact-us"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如有任何商业咨询，请与我们的销售团队联系。</font></font></p>
+<p dir="auto"><a href="https://cal.com/ahmed-bouhuolia-ekk3ph/30min" rel="nofollow"><img src="https://camo.githubusercontent.com/00563d3518be0b4416ee7128bb81ef3f03f86b6953712957eb79288e2d068871/68747470733a2f2f63616c2e636f6d2f626f6f6b2d776974682d63616c2d6461726b2e737667" alt="通过 Cal.com 预订" data-canonical-src="https://cal.com/book-with-cal-dark.svg" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">认出</font></font></h1><a id="user-content-recognition" class="anchor" aria-label="永久链接：认可" href="#recognition"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<a href="https://news.ycombinator.com/item?id=36118990" rel="nofollow">
+  <img style="width: 250px; height: 54px; max-width: 100%;" width="250" height="54" alt="黑客新闻精选" src="https://camo.githubusercontent.com/0628b53b5de9834352c6af1655fb6ed6aad808d9231c88ae7f4eb6d5d516a2dd/68747470733a2f2f6861636b65726e6577732d62616467652e76657263656c2e6170702f6170693f69643d3336313138393930" data-canonical-src="https://hackernews-badge.vercel.app/api?id=36118990">
 </a>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></h1><a id="user-content-contributors" class="anchor" aria-label="永久链接：贡献者" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">感谢这些出色的人（</font></font><a href="https://allcontributors.org/docs/en/emoji-key" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表情符号键</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）：</font></font></p>
 
-# Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/abouolia"><img src="https://avatars.githubusercontent.com/u/2197422?v=4?s=100" width="100px;" alt="Ahmed Bouhuolia"/><br /><sub><b>Ahmed Bouhuolia</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=abouolia" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://ameir.net"><img src="https://avatars.githubusercontent.com/u/374330?v=4?s=100" width="100px;" alt="Ameir Abdeldayem"/><br /><sub><b>Ameir Abdeldayem</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Aameir" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/elforjani13"><img src="https://avatars.githubusercontent.com/u/39470382?v=4?s=100" width="100px;" alt="ElforJani13"/><br /><sub><b>ElforJani13</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=elforjani13" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://scheibling.se"><img src="https://avatars.githubusercontent.com/u/24367830?v=4?s=100" width="100px;" alt="Lars Scheibling"/><br /><sub><b>Lars Scheibling</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Ascheibling" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/suhaibaffan"><img src="https://avatars.githubusercontent.com/u/18115937?v=4?s=100" width="100px;" alt="Suhaib Affan"/><br /><sub><b>Suhaib Affan</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=suhaibaffan" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KalliopiPliogka"><img src="https://avatars.githubusercontent.com/u/81677549?v=4?s=100" width="100px;" alt="Kalliopi Pliogka"/><br /><sub><b>Kalliopi Pliogka</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3AKalliopiPliogka" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://me.kochie.io"><img src="https://avatars.githubusercontent.com/u/10809884?v=4?s=100" width="100px;" alt="Robert Koch"/><br /><sub><b>Robert Koch</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=kochie" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/abouolia"><img src="https://avatars.githubusercontent.com/u/2197422?v=4?s=100" width="100px;" alt="艾哈迈德·布霍利亚" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">艾哈迈德·布胡奥利亚</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=abouolia" title="代码"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://ameir.net" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/374330?v=4?s=100" width="100px;" alt="阿米尔·阿卜杜勒达耶姆" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿米尔·阿卜杜勒达耶姆</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Aameir" title="错误报告"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐛</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/elforjani13"><img src="https://avatars.githubusercontent.com/u/39470382?v=4?s=100" width="100px;" alt="埃尔福贾尼13" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">愛爾福Jani13</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=elforjani13" title="代码"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 💻</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://scheibling.se" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/24367830?v=4?s=100" width="100px;" alt="拉尔斯·沙伊布林" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lars</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Ascheibling" title="错误报告"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Scheibling🐛</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/suhaibaffan"><img src="https://avatars.githubusercontent.com/u/18115937?v=4?s=100" width="100px;" alt="苏海布·阿凡" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">苏海布·阿凡</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=suhaibaffan" title="代码"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/KalliopiPliogka"><img src="https://avatars.githubusercontent.com/u/81677549?v=4?s=100" width="100px;" alt="卡利奥皮·普利奥卡" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡利奥皮·普利奥卡</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3AKalliopiPliogka" title="错误报告"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐛</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://me.kochie.io" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/10809884?v=4?s=100" width="100px;" alt="罗伯特·科赫" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">罗伯特·科赫</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=kochie" title="代码"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font></a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://cschuijt.nl"><img src="https://avatars.githubusercontent.com/u/5460015?v=4?s=100" width="100px;" alt="Casper Schuijt"/><br /><sub><b>Casper Schuijt</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Acschuijt" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ANasouf"><img src="https://avatars.githubusercontent.com/u/19536487?v=4?s=100" width="100px;" alt="ANasouf"/><br /><sub><b>ANasouf</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=ANasouf" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://ragnarlaud.dev"><img src="https://avatars.githubusercontent.com/u/3042904?v=4?s=100" width="100px;" alt="Ragnar Laud"/><br /><sub><b>Ragnar Laud</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Axprnio" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/asenawritescode"><img src="https://avatars.githubusercontent.com/u/67445192?v=4?s=100" width="100px;" alt="Asena"/><br /><sub><b>Asena</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Aasenawritescode" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://snyder.tech"><img src="https://avatars.githubusercontent.com/u/707567?v=4?s=100" width="100px;" alt="Ben Snyder"/><br /><sub><b>Ben Snyder</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=benpsnyder" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://vederis.id"><img src="https://avatars.githubusercontent.com/u/13505006?v=4?s=100" width="100px;" alt="Vederis Leunardus"/><br /><sub><b>Vederis Leunardus</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=cloudsbird" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.pivoten.com"><img src="https://avatars.githubusercontent.com/u/104120598?v=4?s=100" width="100px;" alt="Chris Cantrell"/><br /><sub><b>Chris Cantrell</b></sub></a><br /><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Accantrell72" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://cschuijt.nl" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/5460015?v=4?s=100" width="100px;" alt="卡斯帕·舒伊特" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡斯帕·舒伊特</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Acschuijt" title="错误报告"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐛</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ANasouf"><img src="https://avatars.githubusercontent.com/u/19536487?v=4?s=100" width="100px;" alt="纳苏夫" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安纳苏夫</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=ANasouf" title="代码"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://ragnarlaud.dev" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/3042904?v=4?s=100" width="100px;" alt="拉格纳尔·劳德" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拉格纳尔·劳德</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Axprnio" title="错误报告"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐛</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/asenawritescode"><img src="https://avatars.githubusercontent.com/u/67445192?v=4?s=100" width="100px;" alt="阿塞纳" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阿塞娜</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Aasenawritescode" title="错误报告"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐛</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://snyder.tech" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/707567?v=4?s=100" width="100px;" alt="本·斯奈德" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本·斯奈德</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=benpsnyder" title="代码"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://vederis.id" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/13505006?v=4?s=100" width="100px;" alt="韦德里斯·莱乌纳杜斯" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">韦德里斯·莱纳德斯</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/commits?author=cloudsbird" title="代码"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻</font></font></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.pivoten.com" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/104120598?v=4?s=100" width="100px;" alt="克里斯·坎特雷尔" style="max-width: 100%;"><br><sub><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">克里斯·坎特雷尔</font></font></b></sub></a><br><a href="https://github.com/bigcapitalhq/bigcapital/issues?q=author%3Accantrell72" title="错误报告"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐛</font></font></a></td>
     </tr>
   </tbody>
 </table>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目遵循</font></font><a href="https://github.com/all-contributors/all-contributors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全贡献者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">规范。欢迎任何形式的贡献！</font></font></p>
+</article></div>
